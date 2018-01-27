@@ -19,4 +19,3 @@ function dec(n){
 function makeint(n){
   return parseInt(n)
 }
-function 
